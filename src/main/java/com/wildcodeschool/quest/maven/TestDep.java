@@ -1,4 +1,4 @@
-package fr.wildcodeschool.quetes.maven;
+package com.wildcodeschool.quest.maven;
 
 import org.apache.commons.text.similarity.LevenshteinDistance;
 
